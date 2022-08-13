@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hotTours/static/css/main.566bd010.css",
+    "main.js": "/hotTours/static/js/main.cbbe81f6.js",
+    "index.html": "/hotTours/index.html",
+    "main.566bd010.css.map": "/hotTours/static/css/main.566bd010.css.map",
+    "main.cbbe81f6.js.map": "/hotTours/static/js/main.cbbe81f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.566bd010.css",
+    "static/js/main.cbbe81f6.js"
+  ]
+}
